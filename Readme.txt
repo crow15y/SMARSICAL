@@ -1,0 +1,1 @@
+This is a simple calculator for SMA and RSI calculations.
